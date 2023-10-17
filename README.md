@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miray
+- 👋 Hi, I’m Miray, 24, recently started my journey into the world of programming
 - 🌱 I’m currently learning .NET Framework
 
 <!---
