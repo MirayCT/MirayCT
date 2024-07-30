@@ -1,5 +1,6 @@
 <h1>👋 Hi, I'm Miray!</h1>
-<p>I am a former Metallurgy and Materials Engineer who has transitioned into the world of programming. 🌱 I’m currently learning C# and .NET, excited to acquire new skills and work on projects, and generally be on a continuous journey of learning and growth.</p>
+<p>I am a former Metallurgy and Materials Engineer who has transitioned into the world of programming.</p>
+<p></p>🌱 I’m currently learning C# and .NET, excited to acquire new skills and work on projects, and generally be on a continuous journey of learning and growth.</p>
 
 <h2>About Me</h2>
 <p>🚀 My passion for games, technology, and innovation has led me to the world of software development.</p>
